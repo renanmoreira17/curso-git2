@@ -23,5 +23,7 @@ int main() {
     n3 = add(n1, n2);
     float f1, f2, f3;
     f3 = add_f(f1, f2);
+    int d1, d2, d3;
+    d3 = div(d1, d2);
     return 0;
 }
