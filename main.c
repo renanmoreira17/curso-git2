@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+#define add_generico(a, b) a+b
+
 int add(int a, int b)
 {
     return a + b;
