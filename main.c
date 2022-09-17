@@ -13,6 +13,10 @@ float add_f(float a, float b)
     return add_generico(a, b);
 }
 
+int div(int a, int b)
+{
+    return a / b;
+}
 
 int main() {
     int n1, n2, n3;
