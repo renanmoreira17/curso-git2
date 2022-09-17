@@ -24,8 +24,8 @@ int div(int a, int b)
 }
 
 int main() {
-    int n1, n2, n3;
-    n3 = add(n1, n2);
+    int v1, v2, v3;
+    v3 = add(v1, v2);
 
     float f1, f2, f3;
     f3 = add_f(f1, f2);
