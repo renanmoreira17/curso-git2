@@ -17,5 +17,7 @@ float add_f(float a, float b)
 int main() {
     int n1, n2, n3;
     n3 = add(n1, n2);
+    float f1, f2, f3;
+    f3 = add_f(f1, f2);
     return 0;
 }
