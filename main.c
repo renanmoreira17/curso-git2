@@ -32,5 +32,6 @@ int main() {
     m3 = mult(m1, m2);
     int d1, d2, d3;
     d3 = div(d1, d2);
+
     return 0;
 }
